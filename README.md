@@ -1,5 +1,7 @@
 
-<a href="https://ieeexplore.ieee.org/document/9218931"><img src="https://img.shields.io/badge/DOI-10.1109/ACCESS.2020.3029881-%3Cblue%3E.svg" alt="DOI"></a>
+<a href="https://ieeexplore.ieee.org/document/9218931"><img src="https://img.shields.io/badge/DOI-10.1109/ACCESS.2020.3029881-blue.svg" alt="DOI"></a>
+
+
 
 # Breast Cancer Classification Using Deep Learning Approaches and Histopathology Image: A Comparison Study
 
