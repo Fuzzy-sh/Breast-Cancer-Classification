@@ -3,6 +3,7 @@
 
 <a href="https://www.linkedin.com/in/fuzzy-shahidi"><img src="https://img.shields.io/badge/Linkdin-Fuzzy%20Shahidi-blue.svg" alt="DOI"></a>
 
+[![DOI](https://zenodo.org/badge/529982446.svg)](https://zenodo.org/badge/latestdoi/529982446)
 
 # Breast Cancer Classification Using Deep Learning Approaches and Histopathology Image: A Comparison Study
 
